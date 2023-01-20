@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation1/Encapsulation1.iml" filepath="$PROJECT_DIR$/Encapsulation1/Encapsulation1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation2/Encapsulation2.iml" filepath="$PROJECT_DIR$/Encapsulation2/Encapsulation2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSingleton/JavaSingleton.iml" filepath="$PROJECT_DIR$/JavaSingleton/JavaSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsConstructor-02/MethodsConstructor-02.iml" filepath="$PROJECT_DIR$/MethodsConstructor-02/MethodsConstructor-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsConstructors-01/MethodsConstructors-01.iml" filepath="$PROJECT_DIR$/MethodsConstructors-01/MethodsConstructors-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overload/Overload.iml" filepath="$PROJECT_DIR$/Overload/Overload.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PersonalDevelopmentRepo.iml" filepath="$PROJECT_DIR$/.idea/PersonalDevelopmentRepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poliymorphism01/Poliymorphism01.iml" filepath="$PROJECT_DIR$/Poliymorphism01/Poliymorphism01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poliymorphism02/Poliymorphism02.iml" filepath="$PROJECT_DIR$/Poliymorphism02/Poliymorphism02.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstraction-override/abstraction-override.iml" filepath="$PROJECT_DIR$/abstraction-override/abstraction-override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/default-methods-override/default-methods-override.iml" filepath="$PROJECT_DIR$/default-methods-override/default-methods-override.iml" />
     </modules>
   </component>
 </project>
