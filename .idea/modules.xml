@@ -14,9 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/Poliymorphism02/Poliymorphism02.iml" filepath="$PROJECT_DIR$/Poliymorphism02/Poliymorphism02.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstraction-override/abstraction-override.iml" filepath="$PROJECT_DIR$/abstraction-override/abstraction-override.iml" />
       <module fileurl="file://$PROJECT_DIR$/default-methods-override/default-methods-override.iml" filepath="$PROJECT_DIR$/default-methods-override/default-methods-override.iml" />
-      <module fileurl="file://$PROJECT_DIR$/if-Statement-02/if-Statement-02.iml" filepath="$PROJECT_DIR$/if-Statement-02/if-Statement-02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/if-Statment-03/if-Statement-03/if-Statement-03.iml" filepath="$PROJECT_DIR$/if-Statment-03/if-Statement-03/if-Statement-03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../if-Statement-04/if-Statement-04.iml" filepath="$PROJECT_DIR$/../if-Statement-04/if-Statement-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifStatement2/ifStatement2.iml" filepath="$PROJECT_DIR$/ifStatement2/ifStatement2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifStatement3/ifStatement3.iml" filepath="$PROJECT_DIR$/ifStatement3/ifStatement3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifStatement4/ifStatement4.iml" filepath="$PROJECT_DIR$/ifStatement4/ifStatement4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifStetement1/ifStetement1.iml" filepath="$PROJECT_DIR$/ifStetement1/ifStetement1.iml" />
     </modules>
   </component>
 </project>
