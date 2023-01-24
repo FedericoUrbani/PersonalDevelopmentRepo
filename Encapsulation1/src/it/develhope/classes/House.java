@@ -18,7 +18,7 @@ public class House {
         return residentNames;
     }
     public String getResidentNames(int i) {
-        return getResidentNames()[i];
+        return residentNames[i];
     }
 
     public void setFloorNumber(int floorNumber) {
@@ -31,9 +31,6 @@ public class House {
 
     public void setResidentNames(String[] residentNames) {
         this.residentNames = residentNames;
-    }
-    public void setResidentNames(String residentNames, int i) {
-        this.residentNames[i] = residentNames;
     }
 
 }
